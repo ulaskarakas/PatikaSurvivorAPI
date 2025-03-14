@@ -1,0 +1,6 @@
+@PatikaSurvivorAPI_HostAddress = http://localhost:5015
+
+GET {{PatikaSurvivorAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
